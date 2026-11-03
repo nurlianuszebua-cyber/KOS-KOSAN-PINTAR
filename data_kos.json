@@ -1,0 +1,26 @@
+[
+    {
+        "nama": "Andi",
+        "kamar": "A1",
+        "harga": 500000,
+        "status": "Lunas"
+    },
+    {
+        "nama": "Siti",
+        "kamar": "A2",
+        "harga": 500000,
+        "status": "Belum Lunas"
+    },
+    {
+        "nama": "Budi",
+        "kamar": "A3",
+        "harga": 500000,
+        "status": "Lunas"
+    },
+    {
+        "nama": "Tegar",
+        "kamar": "A8",
+        "harga": 350000,
+        "status": "Belum lunas"
+    }
+]
